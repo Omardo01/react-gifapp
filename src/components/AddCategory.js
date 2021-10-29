@@ -22,7 +22,7 @@ export const AddCategory = ({setCategories}) => {
 
     return (
         <form onSubmit={handleSubmit}>
-            <h2>AddCategory</h2>
+            <h2>Buscar</h2>
             <TextField id="outlined-basic" label="Ingresa categoria" variant="outlined" value={inputValue} onChange={handleInputChange}/>
         </form>
     )

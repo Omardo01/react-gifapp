@@ -15,7 +15,7 @@ const GitExpertApp = () => {
 
     return (
         <div>
-            <h2>GitExpertApp</h2>
+            <h2>Buscador de Gif</h2>
             <AddCategory setCategories={setCategories}/>
             <hr />
             
